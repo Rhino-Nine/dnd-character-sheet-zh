@@ -1,11 +1,8 @@
-<!-- # dnd-character-sheet -->
-# D&D 角色卡
+# dnd-character-sheet
 
-<!-- This is a character sheet for Dungeons & Dragons (2024, 5.5e, or SRD 5.2) set in typst.  -->
-D&D5E typst 角色卡
+This is a character sheet for Dungeons & Dragons (2024, 5.5e, or SRD 5.2) set in typst.
 
-<!-- ## PDF Downloads -->
-## PDF 下载
+## PDF Downloads
 
 | Language    | Format |
 | ----------- | ------ |
@@ -15,5 +12,5 @@ D&D5E typst 角色卡
 ## Other formats
 More formats (PNG, SVG) are available in the [build directory](build).
 
-# A preview of the English character sheet in US letter
+## A preview of the English character sheet in US letter
 <img src="build/standard/empty/en/us-letter/dnd-character-sheet.standard.empty.en.us-letter.1.png" width="50%" height="50%"><img src="build/standard/empty/en/us-letter/dnd-character-sheet.standard.empty.en.us-letter.2.png" width="50%" height="50%">
