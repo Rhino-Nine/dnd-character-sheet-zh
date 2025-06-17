@@ -18,4 +18,4 @@ D&D5E typst 角色卡
 更多格式见[构建目录](build)。
 
 ## A4 中文角色卡预览
-<img src="build/standard/empty/zh/a4/dnd-character-sheet.standard.empty.zh.a4.1.png" width="50%" height="50%"> <img src="build/standard/empty/zh/a4/dnd-character-sheet.standard.empty.zh.a4.2.png" width="50%" height="50%">
+<img src="build/standard/empty/zh/a4/dnd-character-sheet.standard.empty.zh.a4.1.png" width="50%" height="50%"><img src="build/standard/empty/zh/a4/dnd-character-sheet.standard.empty.zh.a4.2.png" width="50%" height="50%">
